@@ -1,1 +1,0 @@
- /home/toan/FlutterProjects/namer_app/.dart_tool/flutter_build/30c5236a8b6730df67b1cee9f26d7b01/native_assets.yaml: 
