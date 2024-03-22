@@ -1,0 +1,1 @@
+export 'package:infinite_list_bloc/posts/view/view.dart';
